@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+:root {
+    font-size: 62.5%; /* 1rem =10px*/
+
+}
+
+body header {
+    margin-bottom: 0%;
+}
+
+body section {
+    margin-inline: 5rem;
+}
+
+body a {
+    color: grey;
+}
+
+body p {
+    width: 50rem;
+}
+
+.title {
+    font-size: 7rem;
+    font-family: Oswald;
+    text-decoration: underline;
+    text-align: right;
+
+    margin-top: 4rem;
+}
+
+.subtitle {
+    font-size: 2rem;
+    font-family: Oswald;
+
+    margin-top: 0%;
+}
+
+.leg {
+    font-size: 1.2rem;
+    font-family: Oswald;
+    font-weight: 100;
+    text-align: justify ;
+
+    margin-bottom: 4.5rem;
+}
+
+.info {
+    background-color: black;
+    color: #fff;
+    height: auto;
+
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-inline: 2rem;
+
+    font-size: 1rem;
+    font-family: Oswald;
+    font-weight: 100;
+}
+
+footer  h4 {
+    font-weight: 100;
+}
